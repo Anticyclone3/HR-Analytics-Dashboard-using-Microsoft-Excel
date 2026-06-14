@@ -62,6 +62,9 @@ To monitor employee attrition trends and provide insights into:
 
 ---
 
+<img width="1379" height="747" alt="image" src="https://github.com/user-attachments/assets/b0577251-4f7d-4170-b205-9f0b861b6d79" />
+
+
 ## Business Insights
 
 - Identified departments with the highest attrition.
